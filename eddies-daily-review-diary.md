@@ -1,13 +1,54 @@
 # Eddie's Daily Review Diary
 
 > Major 72 Studio — Document Change Log & Review Index
-> Last updated: 2026-04-08
+> Last updated: 2026-04-09
 
 ---
 
 ## How to Use This Page
 
 This is your daily review page. Every time documents change, this page gets updated so you can see what's new, what changed, and what to read next. Start from the top — newest changes first.
+
+---
+
+## 2026-04-09 — Service Framework Defined
+
+### New Documents
+
+| Document | What It Is | Status |
+|---|---|---|
+| [Service Framework](docs/service-framework.md) | Four-tier service model (Hear It / Build It / Play It / Gift It) with pricing, UX flow, and shared engine architecture | **Ready for review** |
+
+### What Happened
+
+Party Mode strategy session with the full BMAD agent team. Key decisions made:
+
+**Service Model Locked — Four Tiers:**
+- **Hear It** ($29-49/mo) — Upload rough idea, get it back polished in Eddie's signature sound. MVP.
+- **Build It** ($79-149/track) — Full arrangement with AI Session Players. Phase 2.
+- **Play It** ($299-999/project) — Stage-ready charts, click tracks, session musician hiring. Phase 3.
+- **Gift It** ($49-149/song) — Custom song from a story for weddings/milestones. Soft-launch with MVP.
+
+**Key Strategic Decisions:**
+- Eddie is open to being the face of the service ("Eddie's ears" branding)
+- Pricing at $29-49/mo for Hear It confirmed as "about right"
+- Gift It launches alongside Hear It as a separate brand/URL — same engine, different door
+- Each tier validates the next — demand pulls you forward, don't build ahead of demand
+- "Hear It" doesn't add instruments or change the music — it polishes what you give it. This is the trust builder.
+
+**The "Hear It" MVP UX in 5 steps:**
+1. Upload (drag and drop, no forms)
+2. Choose sound (Eddie Signature — one button)
+3. Wait (30-60 sec, show what Eddie's mode is doing)
+4. Reveal (before/after split-screen toggle — the "oh my god" moment)
+5. Download (polished mix + stems + metadata, one zip)
+
+### Decisions Still Open
+
+- [ ] Eddie as the face — explore branding around "Eddie's ears"
+- [ ] Gift It brand name and separate URL
+- [ ] Exact pricing within the $29-49 range
+- [ ] **Next step: Create Product Brief** (starting now)
 
 ---
 
