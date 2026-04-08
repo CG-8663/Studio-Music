@@ -1,0 +1,10 @@
+# BMad working artifacts (not finished documentation)
+_bmad-output/planning-artifacts/
+_bmad-output/test-artifacts/
+
+# OS files
+.DS_Store
+
+# Agent configs (local)
+.agents/
+.gemini/
