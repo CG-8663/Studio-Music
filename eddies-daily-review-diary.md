@@ -43,12 +43,18 @@ Party Mode strategy session with the full BMAD agent team. Key decisions made:
 4. Reveal (before/after split-screen toggle — the "oh my god" moment)
 5. Download (polished mix + stems + metadata, one zip)
 
+### New: Product Brief (Investor Pitch)
+
+| Document | What It Is | Status |
+|---|---|---|
+| [Product Brief](docs/product-brief.md) | Investor-ready executive brief covering problem, solution, market, differentiation, success criteria, and vision | **Ready for Eddie's review** |
+
 ### Decisions Still Open
 
 - [ ] Eddie as the face — explore branding around "Eddie's ears"
 - [ ] Gift It brand name and separate URL
 - [ ] Exact pricing within the $29-49 range
-- [ ] **Next step: Create Product Brief** (starting now)
+- [ ] Review product brief — does the investor pitch land? What needs changing?
 
 ---
 

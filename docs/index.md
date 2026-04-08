@@ -27,6 +27,7 @@
 
 - [Project Overview](./project-overview.md) — Executive summary, stakeholders, competitive landscape
 - [Strategic Framework](./strategic-framework.md) — Market analysis, vision, competitive positioning, IP strategy
+- [Product Brief](./product-brief.md) — Investor pitch: executive summary, problem/solution, market context, success criteria
 - [Service Framework](./service-framework.md) — Four-tier service model (Hear It / Build It / Play It / Gift It) with pricing and UX
 - [Market Research](./market-research.md) — Comprehensive market validation (customer behavior, pain points, competitive landscape, strategic recommendations)
 - [Technical Specs](./technical-specs.md) — Actionable specifications (SPEC-01 to SPEC-06) with task checklists
