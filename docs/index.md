@@ -27,6 +27,7 @@
 
 - [Project Overview](./project-overview.md) — Executive summary, stakeholders, competitive landscape
 - [Strategic Framework](./strategic-framework.md) — Market analysis, vision, competitive positioning, IP strategy
+- [Market Research](./market-research.md) — Comprehensive market validation (customer behavior, pain points, competitive landscape, strategic recommendations)
 - [Technical Specs](./technical-specs.md) — Actionable specifications (SPEC-01 to SPEC-06) with task checklists
 - [Gap Analysis](./gap-analysis.md) — 8 identified gaps, priority matrix, recommended next steps
 - [Source Tree Analysis](./source-tree-analysis.md) — Annotated directory structure and critical folders
